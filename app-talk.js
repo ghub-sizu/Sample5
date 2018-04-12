@@ -26,4 +26,3 @@ var App;
     }());
     App.Talk = Talk;
 })(App || (App = {}));
-//# sourceMappingURL=app-talk.js.map

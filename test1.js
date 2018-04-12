@@ -12,4 +12,3 @@ QUnit.test("GetGreetng Test", function (assert) {
     assert.equal(App.Talk.GetGreeting(new Date(2018, 0, 1, 22, 0, 0, 0)), "Welcome back!");
     assert.equal(App.Talk.GetGreeting(new Date(2018, 0, 1, 23, 59, 59, 999)), "Welcome back!");
 });
-//# sourceMappingURL=test1.js.map
